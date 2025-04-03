@@ -1,3 +1,4 @@
+# version=1.0.0
 from microwifimanager.manager import WifiManager
 from adc_sub import ADC_substitute
 import umail
@@ -31,8 +32,6 @@ with open("config.json", "r") as file:
     email = data["email"]
     whatsapp = data["whatsapp"]
     device_id = data["device_id"]
-
-CURRENT_VERSION = "1.0.0"
 
 sender_email = "notification@leaklytics.com"
 
