@@ -12,7 +12,7 @@ Includes custom **hardware design** (schematic + PCB layout + BOM) and **firmwar
 ## 🛠️ Tech Stack
 
 **Hardware & Electronics**
-- ESP32 microcontroller  
+- ESP32-C3 microcontroller  
 - Custom PCB design (schematic capture + PCB layout)  
 - Bill of Materials (BOM) preparation  
 - External manufacturing integration  
