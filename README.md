@@ -24,6 +24,6 @@ Includes custom **hardware design** (schematic + PCB layout + BOM) and **firmwar
 - Notification services: WhatsApp API, SMTP (Email)  
 
 **Tools**
-- KiCad / Altium Designer (PCB design & schematic capture)  
+- KiCad (PCB design & schematic capture)  
 - GitHub for version control  
 - External PCB fabrication & assembly services  
