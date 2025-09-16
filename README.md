@@ -19,7 +19,7 @@ Includes custom **hardware design** (schematic + PCB layout + BOM) and **firmwar
 
 **Software & Firmware**
 - MicroPython
-- Local webserver hosting (captive portal)  
+- Local webserver hosting (captive portal, HTML/CSS)  
 - Networking: Wi-Fi configuration, client portal handling  
 - Notification services: WhatsApp API, SMTP (Email)  
 
