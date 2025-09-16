@@ -27,3 +27,4 @@ Includes custom **hardware design** (schematic + PCB layout + BOM) and **firmwar
 - KiCad (PCB design & schematic capture)  
 - GitHub for version control  
 - External PCB fabrication & assembly services  
+<img width="803" height="695" alt="leak pcb" src="https://github.com/user-attachments/assets/2eb639c1-975b-4c25-bf4e-114f3672d732" />
