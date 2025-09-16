@@ -18,7 +18,7 @@ Includes custom **hardware design** (schematic + PCB layout + BOM) and **firmwar
 - External manufacturing integration  
 
 **Software & Firmware**
-- MicroPython / C++ (ESP-IDF / Arduino framework for ESP32)  
+- MicroPython
 - Local webserver hosting (captive portal)  
 - Networking: Wi-Fi configuration, client portal handling  
 - Notification services: WhatsApp API, SMTP (Email)  
