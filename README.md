@@ -1,1 +1,29 @@
-# LeakLytics
+# IoT Water Damage Detection System
+
+An IoT device designed to detect water leaks and instantly notify users via **WhatsApp** or **Email**.  
+Includes custom **hardware design** (schematic + PCB layout + BOM) and **firmware/software** implementation with ESP32, featuring a **captive portal system** for Wi-Fi configuration through a local webserver.
+
+## 🔧 Features
+- Real-time water damage detection  
+- Automatic user notifications (WhatsApp & Email)  
+- Captive portal for Wi-Fi setup (ESP32-hosted webserver)  
+- Custom PCB prototype with outsourced production  
+
+## 🛠️ Tech Stack
+
+**Hardware & Electronics**
+- ESP32 microcontroller  
+- Custom PCB design (schematic capture + PCB layout)  
+- Bill of Materials (BOM) preparation  
+- External manufacturing integration  
+
+**Software & Firmware**
+- MicroPython / C++ (ESP-IDF / Arduino framework for ESP32)  
+- Local webserver hosting (captive portal)  
+- Networking: Wi-Fi configuration, client portal handling  
+- Notification services: WhatsApp API, SMTP (Email)  
+
+**Tools**
+- KiCad / Altium Designer (PCB design & schematic capture)  
+- GitHub for version control  
+- External PCB fabrication & assembly services  
