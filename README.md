@@ -1,4 +1,4 @@
-# IoT Water Damage Detection System
+# IoT Water Leak Detection System
 
 An IoT device designed to detect water leaks and instantly notify users via **WhatsApp** or **Email**.  
 Includes custom **hardware design** (schematic + PCB layout + BOM) and **firmware/software** implementation with ESP32, featuring a **captive portal system** for Wi-Fi configuration through a local webserver.
