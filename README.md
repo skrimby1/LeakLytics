@@ -4,7 +4,7 @@ An IoT device designed to detect water leaks and instantly notify users via **Wh
 Includes custom **hardware design** (schematic + PCB layout + BOM) and **firmware/software** implementation with ESP32, featuring a **captive portal system** for Wi-Fi configuration through a local webserver.
 
 ## 🔧 Features
-- Real-time water damage detection  
+- Real-time water damage detection - uses resistive cables to detect water leak
 - Automatic user notifications (WhatsApp & Email)  
 - Captive portal for Wi-Fi setup (ESP32-hosted webserver)  
 - Custom PCB prototype with outsourced production  
