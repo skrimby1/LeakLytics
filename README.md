@@ -28,3 +28,7 @@ Includes custom **hardware design** (schematic + PCB layout + BOM) and **firmwar
 - GitHub for version control  
 - External PCB fabrication & assembly services  
 <img width="803" height="695" alt="leak pcb" src="https://github.com/user-attachments/assets/2eb639c1-975b-4c25-bf4e-114f3672d732" />
+
+## Simple CAD design
+<img width="624" height="484" alt="simple cad" src="https://github.com/user-attachments/assets/a28603cc-4438-4278-a116-c1af697c1406" />
+
